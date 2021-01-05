@@ -1,0 +1,11 @@
+---
+site_title: Aerlytix Layout with includes
+---
+
+{% include "header.njk" %}
+
+ <h1>{{site_title}}</h1>
+
+ {{ content | safe }}
+
+{% include "footer.njk" %}
