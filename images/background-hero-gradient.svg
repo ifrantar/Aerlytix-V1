@@ -1,0 +1,22 @@
+<svg width="10" height="71" viewBox="0 0 10 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+
+    .gradient {
+      stop-color: white;
+    }
+
+    <!-- @media (prefers-color-scheme: dark) {
+      .gradient {
+        stop-color: #15181b;
+      }
+    } -->
+
+  </style>
+<rect width="10" height="71" fill="url(#paint0_linear)"/>
+<defs>
+  <linearGradient id="paint0_linear" x1="5" y1="0" x2="5" y2="71" gradientUnits="userSpaceOnUse">
+    <stop class="gradient" stop-opacity="0"/>
+    <stop class="gradient" offset="1" />
+  </linearGradient>
+</defs>
+</svg>

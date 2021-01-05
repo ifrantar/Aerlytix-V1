@@ -1,0 +1,22 @@
+.layout {
+    width: 100%;
+    max-width: 1440px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    
+    &__align {
+        &--vertical-centered {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        &--horizontal-centered {
+            margin:0 auto;
+        }
+
+        &--text-centered {
+            text-align: center;
+        }
+    }
+}

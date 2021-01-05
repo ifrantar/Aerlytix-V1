@@ -1,2 +1,2 @@
-# aerlytix-website2
-Aerlytix Marketing Website
+# Aerlytix Website
+Aerlytix Marketing Website to describe product capabilities and information about Aerlytix.

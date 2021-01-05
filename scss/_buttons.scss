@@ -1,0 +1,36 @@
+.button {
+    display: inline-flex;
+    background: var(--buttons-primary-color);
+    border-radius: 4px;
+    padding:.6rem 1rem;
+    color: var(--buttons-primary-typography-color);
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+
+    }
+
+    &--big {
+        padding:1.2rem 2rem;
+        font-size:140%;
+    }
+    
+    &--outline {
+        border: 1px solid var(--buttons-primary-color);
+        color: var(--buttons-primary-color);
+        background: var(--buttons-primary-typography-color);
+        
+        &:hover {
+            color:var(--buttons-primary-typography-color);
+            background: var(--buttons-primary-color);
+        }
+    }
+}
+
+@media (max-width: 1060px) {
+    .button {
+        display:block;
+        text-align: center;
+    }
+}

@@ -1,0 +1,19 @@
+.grid {
+    &__tiles {
+        display: grid;
+        grid-gap: 2rem;
+        grid-auto-rows: 1fr;
+    }
+
+    &__col-2 {
+        grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+    }
+
+    &__col-3 {
+        grid-template-columns: repeat(auto-fit, minmax(316px, 1fr));
+    }
+
+    &__col-4 {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+}

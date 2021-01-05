@@ -1,0 +1,34 @@
+<svg viewBox="0 0 457 188" version="1.1">
+    <defs>
+        <linearGradient x1="50%" y1="-45.9183571%" x2="46.7336683%" y2="57.1428571%" id="linearGradient-1">
+            <stop stop-color="#4F71EC" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.5075377%" y1="-21.1009174%" x2="46.2311558%" y2="72.4770642%" id="linearGradient-2">
+            <stop stop-color="#ECC94F" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.9899497%" y1="-119.354839%" x2="44.4723618%" y2="107.526882%" id="linearGradient-3">
+            <stop stop-color="#EC4F4F" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="credit-exposed">
+            <rect id="Rectangle" stroke="#EBEBEB" fill="#FFFFFF" x="10.5" y="0.5" width="446" height="177" rx="12.5"></rect>
+            <rect id="Rectangle" stroke="#EBEBEB" fill="#FFFFFF" x="0.5" y="10.5" width="446" height="177" rx="12.5"></rect>
+            <rect id="Rectangle" fill="#E1E4E9" x="36" y="154" width="47" height="11" rx="5"></rect>
+            <rect id="Rectangle" fill="#E1E4E9" x="133" y="154" width="47" height="11" rx="5"></rect>
+            <rect id="Rectangle" fill="#E1E4E9" x="229" y="154" width="47" height="11" rx="5"></rect>
+            <path d="M424,89 C308.502,53.8 110.542,39 26,36 L26,52 C224.4,64.8 374,112 424,134 L424,89 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M26,36 C110.542,39 308.502,53.8 424,89" id="Path" stroke="#4F71EC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M424,134 C311.819,83 110.542,55 26,52 L26,69 C26,69 95,69 229,99 C363,129 424,161 424,161 L424,134 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <path d="M26,52 C110.542,55 311.819,83 424,134" id="Path" stroke="#ECC94F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M424,161 C311.819,110 110.542,71 26,68 L26,161 L424,161 Z" id="Path" fill="url(#linearGradient-3)"></path>
+            <path d="M26,68 C110.542,71 311.819,110 424,161" id="Path" stroke="#EC4F4F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle id="Oval" fill="#4F71EC" cx="27.5" cy="159.5" r="3.5"></circle>
+            <circle id="Oval" fill="#ECC94F" cx="123.5" cy="159.5" r="3.5"></circle>
+            <circle id="Oval" fill="#EC4F4F" cx="220.5" cy="159.5" r="3.5"></circle>
+        </g>
+    </g>
+</svg>
