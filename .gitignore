@@ -2,3 +2,5 @@ images/.DS_Store
 .DS_Store
 css/*.map
 .sass-cache
+_site
+node_modules
